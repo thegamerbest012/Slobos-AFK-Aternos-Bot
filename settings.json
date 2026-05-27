@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "ownerasistent",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "gamerzsmp-1zjk.aternos.me",
