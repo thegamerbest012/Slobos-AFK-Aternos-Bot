@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "BongMc",
   "bot-account": {
-    "username": "ownerasistent",
+    "username": "BongMc",
     "password": "",
     "type": "online"
   },
   "server": {
-    "ip": "gamerzsmp-1zjk.aternos.me",
-    "port": 23881,
+    "ip": "bongmc.play.hosting",
+    "port": 21138,
     "version": "",
     "try-creative": false
   },
